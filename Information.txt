@@ -5,5 +5,5 @@ If you are preparing for a data science/analyst interview or just looking to bru
 - Central Limit theorem
 - P - Values and everything about it  
 - Hypothesis testing 
-
+- A/B Testing
 
