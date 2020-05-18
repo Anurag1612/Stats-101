@@ -1,9 +1,10 @@
 If you are preparing for a data science/analyst interview or just looking to brush up on important stats topics this is what you must know:
 
-- Distributions and different type of distributions
-- Normal Distribution
-- Central Limit theorem
-- P - Values and everything about it  
-- Hypothesis testing 
-- A/B Testing
+1) Distributions and different type of distributions
+2) Design of Experiments: 
+  - Central Limit theorem
+   - P - Values and everything about it  
+  - Hypothesis testing 
+  - Power and Power Analysis
+  - A/B Testing
 
